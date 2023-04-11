@@ -4228,31 +4228,31 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		welcome_to = "Witamy w",
 		san_andreas = "San Andreas!",
 
-		getting_started = "Zaczynamy",
-		getting_started_1 = "Właśnie dotarłeś na lotnisko i pewnie zadajesz sobie pytanie, gdzie się stąd udać? Wszyscy nowi obywatele otrzymują darmowy samochód na start. Może nie jest najlepszy, ale jest twój i możesz go zatrzymać. Możesz go znaleźć na parkingu.",
-		getting_started_2 = "Jeśli nie masz ochoty na jazdę samochodem, możesz również pójść pieszo, poprosić przyjaciela o podwiezienie lub wezwać taksówkę za pomocą telefonu. Możesz uzyskać dostęp do telefonu, naciskająć przycisk \"P\"",
-		getting_started_3 = "Większość pojazdów ma bagażniki, do których można włożyć nie tylko przedmioty, ale i inne osoby. Możesz /carry podnieśc kogoś, następnie podejść do bagażnika, otworzyć go (/door) i włożyć go do środka. W ten sam sposób możesz również wyciągnąć ich z powrotem. Jeśli przewróciłeś swój pojazd możesz go /flip przewrócić z powrotem na koła.v",
+		getting_started = "Turystyka",
+		getting_started_1 = "Stan ma wiele pięknych miejsc, które przyciągają miłośników przyrody z całego świata. Jeśli chcesz poczuć bliskość natury, polecamy odwiedzić Park Narodowy Banff. Jest to idealne miejsce dla osób, które chcą poczuć bliskość natury i zobaczyć piękno dzikiej przyrody. Znajdziesz tam góry, rzeki, lasy i malownicze jeziora.",
+		getting_started_2 = "Góra Chiliad jest również popularnym celem turystycznym dla miłośników krajobrazów. Znajduje się tam punkt widokowy, z którego można podziwiać piękne widoki na okolicę. Wspinaczka na szczyt jest również popularną atrakcją dla turystów. Na szczycie można zrobić piękne zdjęcia, które staną się wspaniałą pamiątką.",
+		getting_started_3 = "W pobliżu Góry Chiliad znajduje się urocze miasteczko Paleto Bay. To idealne miejsce dla fanów myślistwa, ponieważ w Hunting Store można znaleźć wszystko, czego potrzeba do udanego polowania!",
 
-		where_now = "Gdzie teraz?",
-		where_now_1 = "Teraz, gdy nabyłeś swój pierwszy pojazd, możesz zacząć zwiedzać miasto. Ponieważ musisz być odżywiony i nawodniony, sklep spożywczy jest dobrym miejscem do rozpoczęcia. Możesz tam kupić jedzenie i napoje. A także bandaże, które pomogą Ci odzyskać zdrowie po zranieniach.",
+		where_now = "Stolica",
+		where_now_1 = "Następnie udajemy się do stolicy stanu - Los Santos. To miasto pełne życia, klubów i pubów, które gwarantują wieczorny relaks. Miejsca takie jak Vespucci Beach, Del Perro Pier i Mirror Park to idealne miejsca na wypoczynek. Jednak, bądź ostrożny, ponieważ miasto skrywa wiele niebezpiecznych dzielnic, dlatego warto uważać. Na szczęście mamy świetnie zorganizowane jednostkę policyjną oraz departament sprawiedliwości, które dokładają wszelkich starań, by zadbać o bezpieczeństwo.",
 		where_now_2 = "Gdy już zaopatrzysz się w zapasy, udaj się do sądu i odbierz kartę obywatela. Będzie ona pełniła rolę twojego dowodu osobistego, prawa jazdy i pozwolenia na broń.",
+		
+		getting_a_job = "Perspektywy",
+		getting_a_job_1 = "Los Santos to miasto, które obfituje w wiele możliwości. Nie musisz martwić się o wydanie wszystkich swoich oszczędności na właśnie sprowadzone auto w Premium Deluxe Motorsport. Miasto to oferuje wiele różnych możliwości zarobienia pieniędzy i chętnie zatrudnia turystów.",
+		getting_a_job_2 = "W takim Life Invanderze praktycznie zawsze znajdą zajęcie, które poratuje Cię paroma dolarami. Zawsze jest gdzieś coś do zrobienia, niezależnie od pory dnia lub nocy.",
+		getting_a_job_3 = "Jeśli jednak szukasz czegoś więcej, to warto poszukać innych miejsc, które często potrzebują dodatkowych rąk do pracy. Warsztaty samochodowe, puby i restauracje, a nawet szpitale, to tylko kilka przykładów miejsc, w których można znaleźć pracę. Może nawet stać Cię będzie na wyniesienie z moteli, które lubią zbijać majątek na turystach!",
+		getting_a_job_4 = "Praca w Los Santos może być również dobrą okazją do zdobycia cennego doświadczenia i nawiązania nowych kontaktów. Wiele miejsc pracy oferuje szkolenia i możliwość awansu, co pozwala na rozwój zawodowy i zdobycie nowych umiejętności.",
+		getting_a_job_5 = "Dodatkowo, praca może pozwolić na nawiązanie nowych znajomości, co w przyszłości może okazać się bardzo wartościowe. W końcu kontakty w dzisiejszym świecie są najważniejsze w biznesie.",
 
-		getting_a_job = "Zdobycie pracy",
-		getting_a_job_1 = "W jaki sposób można zarobić pieniądze? Możesz zacząć od szukania pracy. Oferty pracy znajdziesz na stronie Life Invader. Możesz znaleźć jego czerwoną ikonę walizki na mapie. Tutaj znajdziesz wybrane oferty pracy, na które możesz aplikować.",
-		getting_a_job_2 = "Praca truckera wymaga od Ciebie dostarczania towarów do różnych miejsc. Musisz najpierw kupić ciężarówkę za 2000$.",
-		getting_a_job_3 = "Zapisując się do pracy w dostawie możesz odebrać dostawę wypełnioną paczkami. Następnie musisz dostarczyć paczki do różnych miejsc w mieście. Możesz otworzyć tył furgonetki dostawczej podchodząc do niej i otwierając drzwi za pomocą komendy /door.",
-		getting_a_job_4 = "Możesz również zostać zbieraczem odpadów. W centrum zbierania odpadów możesz odebrać śmieciarkę i zacząć zbierać śmieci.",
-		getting_a_job_5 = "Po zapisaniu się do jednej z prac będziesz mógł zobaczyć na swojej mapie różne znaczniki. Punkt orientacyjny pokazuje, gdzie należy się udać, aby rozpocząć pracę.",
+		your_appearance = "Zdrowie",
+		your_appearance_1 = "Przechadzając się po Vinewood Boulevard wyrżnąłeś się z podekscytowania? Jeśli potrzebujesz pomocy medycznej, Szpital Mount Zonah w mig postawi Ci diagnozę!",
+		your_appearance_2 = "Pacjenci otrzymują tam opiekę od najlepszych specjalistów w swoich dziedzinach, którzy stosują najnowsze metody diagnostyczne i lecznicze, a sam szpital jest wyposażony w najnowocześniejsze urządzenia diagnostyczne i terapeutyczne, co pozwala na dokładne diagnozowanie chorób i skuteczne ich leczenie.",
 
-		your_appearance = "Twój wygląd",
-		your_appearance_1 = "Ubrania takie jak spodnie, buty, koszule i inne można zmienić bezpłatnie w każdym sklepie odzieżowym. Fryzurę, włosy na twarzy i makijaż można zmienić w salonie fryzjerskim. Zarówno sklepy odzieżowe, jak i salony fryzjerskie znajdziesz na mapie.",
-		your_appearance_2 = "Po pierwszym tworzeniu postaci nie będziesz mógł już zmienić swojego ogólnego wyglądu, jak kolor skóry, rysy twarzy itp. Jeśli zepsułeś swój wygląd lub skończyłeś za szybko możesz wpisać /report i poprosić o reskina.",
+		medical_care = "Papierologia",
+		medical_care_1 = "Zabalowałeś za mocno w salonie gier i Twoje dokumenty gdzieś wyparowały? Nasz sąd ten cechuje się wysokim poziomem i szybkością działania, co oznacza, że szybko i sprawnie zajmie się Twoją sprawą! Oczywiście, za korzystanie z usług sądu trzeba zapłacić pewną opłatę.",
+		medical_care_2 = " Wskazane jest również, abyś udał się do Suburbana - w końcu wypada jakoś się prezentować, zadbać o odpowiedni wygląd, który jest adekwatny do wizyty w sądzie.",
 
-		medical_care = "Opieka medyczna",
-		medical_care_1 = "Jeśli zostaniesz ranny, możesz udać się do szpitala, aby się zameldować i otrzymać leczenie. Szpital możesz znaleźć na mapie. Możesz również użyć bandaży lub apteczek, aby się wyleczyć.",
-		medical_care_2 = "Jeśli odrodzisz się bez zabrania do szpitala lub opuścisz grę, gdy jesteś martwy, możesz stracić część swoich przedmiotów. Restart serwera liczy się jako wyjście z gry.",
-
-		closing_sentence = "W mieście jest o wiele więcej do zrobienia! Popytaj i poznaj znajomych ;)"
+		closing_sentence = "W mieście jest o wiele więcej do zrobienia, niż Ci się tylko wydaje!"
 	},
 
 	cache = {
@@ -7021,27 +7021,27 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		firework_battery = "Bateria fajerwerków",
 		firework_battery_description = "Bateria fajerwerków. Wystrzeliwuje 4 fajerwerki jednocześnie",			
 		
-		pole = "Żółta rura",
-		pole_description = "Tłumacząc zastanawiamy się czy to służy do stripzizu.",
+		pole = "Rura",
+		pole_description = "",
 
 		gasoline_bottle = "Butelka z benzyną",
-		gasoline_bottle_description = "Do szybkiego uzupełnienia paliwa lub...uhm.....siebie?",
+		gasoline_bottle_description = "Do szybkiego uzupełnienia paliwa.",
 
 		radio_jammer = "Radio Jammer",
 		radio_jammer_description = "Idealny do zagłuszania wszelkiego rodzaju transmisji przychodzących i wychodzących.",
 
 		winner_trophy = "Zwycięzca Trofeum",
 		winner_trophy_description = "You are the best!",
+		
+		treasure_map = "Mapa skarbów",
+		treasure_map_description = "",
+		treasure_map_piece = "Fragment mapy skarbów",
+		treasure_map_piece_description = "",
 
 		black_dildo = "Czarne Dildo",
-		black_dildo_description = "Ciekawe czy jest wieksze od białego.",
+		black_dildo_description = "",
 		pink_dildo = "Różowe Dildo",
-		pink_dildo_description = "Ciekawe czy jest większe od czarnego dildo.",
-
-		treasure_map = "Mapa skarbów",
-		treasure_map_description = "Jedni grają rolę Jack Sparrow'a a drudzy płacą 15 mln za zniesławienie.",
-		treasure_map_piece = "Fragment mapy skarbów",
-		treasure_map_piece_description = "Czuję się jakbym zbierał dowody przeciwko żonie tego co grał Jack Sparrowa.",
+		pink_dildo_description = "",
 
 		bean_coffee = "Bean Coffee",
 		bean_coffee_description = "Specjalność kawiarni, idealny balans smaku palonych ziaren Arabici i Robusty.",
@@ -7050,7 +7050,7 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		espresso = "Espresso",
 		espresso_description = "Espresso parzy się zazwyczaj z mieszanek kilku gatunków kaw. Powstała w ten sposób kawa ma (po prawidłowym przygotowaniu) gęstą, orzechowobrązową piankę zwaną z wł. crema.",
 		cream_cookie = "Kremówka",
-		cream_cookie_description = "Słodka propozycja, która bezsprzecznie kojarzy się z kuchnią polską. Kremówka ta jest związana z miejscem narodzin papieża Jana Pawła II.",
+		cream_cookie_description = "Słodka propozycja, która bezsprzecznie kojarzy się z kuchnią polską.",
 		cheesecake = "Cheesecake",
 		cheesecake_description = "Rodzaj ciasta deserowego lub deseru uformowanego na kształt ciasta, którego głównym składnikiem jest biały ser.",
 		chocolate_cake = "Chocolate Cake",
@@ -7104,13 +7104,30 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		oreos = "Urodzinowe ciasto Oreo",
 		oreos_description = "Pyszne ciasteczka wraz z tortem urodzinowym.",
 		nerds_chunks = "Nerds Chunks",
-		nerds_chunks_description = "Torebka gumow dla nerdów, pyszne!",
+		nerds_chunks_description = "Torebka gum dla nerdów, pyszne!",
 		reeses_pieces = "Reese's Pieces",
 		reeses_pieces_description = "Idealna przekąska na czas, gdy czujesz się trochę głodny, ale nie na tyle, by zjeść pełny posiłek.",
 		kettle_chips = "Kettle Chips (Honey-BBQ)",
 		kettle_chips_description = "Najlepsze chipsy na świecie.",
 		cheetos = "Cheetos",
-		cheetos_description = "Najlepsza przekąska na sesje gier.",
+		cheetos_description = "Najlepsza przekąska na długie siedzenie w nocy.",
+		peanuts = "Solone orzeszki ziemne",
+		peanuts_description = "Puszka orzeszków ziemnych, idealna jako przekąska.",
+		
+		rice = "Ryż",
+		rice_description = "To pulchne, puszyste ziarna.",
+		nori = "Nori",
+		nori_description = "To wodorosty, ale fantazyjne.",
+		soy_sauce = "Sos sojowy",
+		soy_sauce_description = "Sos sojowy to pikantna przyprawa o bogatym smaku umami, która jest idealna do marynat, przypraw i sosów do maczania, ma niską kaloryczność i wysoką zawartość białka.",
+		eggs = "Jajka",
+		eggs_description = "Wszechstronne i pożywne jajka są idealne do omletów, quiche i wypieków.",
+		lime = "Limonka",
+		lime_description = "Pikantne i bogate w witaminę C limonki dodają smaku napojom, marynatom i sosom.",
+		coconut = "Kokos",
+		coconut_description = "Słodki i kremowy kokos wzbogaca desery, curry i koktajle. Zimnica.",
+		sugar = "Cukier",
+		sugar_description = "To kokaina, ale nie jest nielegalna i powoduje cukrzycę.",
 
 		golf_ball = "Piłka golfowa",
 		golf_ball_description = "Używana w Golfie.",
@@ -7121,11 +7138,15 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		golf_ball_pink = "Różowa piłka golfowa",
 		golf_ball_pink_description = "Używana w Golfie.",
 
-		gas_mask = "Gas Mask",
+		gas_mask = "Maska Gazowa",
 		gas_mask_description = "Maska Gazowa, uchroni cię przed każdym możliwym gazem",
+		nv_goggles = "Gogle Noktowizyjne",
+		nv_goggles_description = "Pomoże Ci widzieć w ciemności.",
+		thermal_goggles = "Gogle Termowizyjne",
+		thermal_goggles_description = "Pomoże Ci zobaczyć rzeczy o dużym stężeniu ciepła.",
 
 		green_rolls = "Zielone bułki",
-		green_rolls_description = "Dla tych z nas, którzy potrzebują więcej niż przeciętna kwota.",
+		green_rolls_description = "Dla tych z nas, którzy potrzebują więcej niż przeciętna ilość.",
 		rolling_paper = "Papier do zwijania",
 		rolling_paper_description = "Ten szybki papier do zwijania i odpędzania bólu.",
 
@@ -7133,9 +7154,8 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		arena_pill_description = "Dziwna pigułka, która robi jeszcze dziwniejsze rzeczy... Połknij na własne ryzyko. Być może mądrze byłoby mieć przy sobie broń, aby chronić się przed gwałtownymi snami.",
 
 		shovel = "Shovel",
-		shovel_description = "Idealny przedmiot aby wykopać grób swojej żonie!",
+		shovel_description = "",
 
-		
 		electric_fuse = "Elektryczny bezpiecznik",
 		electric_fuse_description = "Bezpiecznik elektryczny jest wymaganym przedmiotem w specjalnych pomieszczeniach do zrobienia napadu. Musi być umieszczony w skrzynce z bezpiecznikami, aby zasilić zamek z kluczem.",
 		keycard_green = "Zielona karta wstępu",
@@ -7373,7 +7393,7 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		weapon_snowball = "Śnieżki",
 		weapon_pipebomb = "Bomby rurowe",
 		weapon_ball = "Baseball",
-		weapon_smokegrenade = "Gas łzawiący",
+		weapon_smokegrenade = "Gas łzawiący", -- NOTE: this is called "Tear Gas" in the native game for some reason
 		weapon_flare = "Flara",
 
 		weapon_petrolcan = "Kanister",
@@ -7397,13 +7417,13 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		weapon_hatchet_description = "Zrób rozpałkę... Ze swoich kumpli dzięki tej łatwej w obsłudze, łatwej do ukrycia siekierce.",
 		weapon_knuckle_description = "Idealne do wybijania złotych zębów jako prezent dla partnera..",
 		weapon_knife_description = "Ten 7-calowy nóż z ostrzem ze stali węglowej ma podwójne krawędzie i ząbkowany kręgosłup, aby zapewnić lepsze możliwości dźgania i pchania.",
-		weapon_machete_description = "Średniowieczna broń używana przez pradawnych krakowian do zdobywania terenu.",
+		weapon_machete_description = "Średniowieczna broń.",
 		weapon_switchblade_description = "Od kieszeni do rękojeści w żebrach drugiego faceta w mniej niż sekundę: składane noże nigdy nie wyjdą z mody.",
 		weapon_nightstick_description = "24-calowa poliwęglanowa pałka ręczna.",
 		weapon_wrench_description = "Odwieczny faworyt apokaliptycznych survivalistów i agresywnych ojców na całym świecie, najwyraźniej pełni również rolę pewnego rodzaju narzędzia.",
 		weapon_battleaxe_description = "Jeśli jest wystarczająco dobry dla średniowiecznych żołnierzy piechoty, nowoczesnych funkcjonariuszy straży granicznej i natarczywych mamuśek piłkarskich, jest wystarczająco dobry dla ciebie.",
 		weapon_poolcue_description = "Ach, nie ma dźwięku tak satysfakcjonującego jak trzask idealnego breaku, szczególnie gdy jest to kręgosłup drugiego faceta.",
-		weapon_stone_hatchet_description = "Skamieliny... ta ta ta pup",
+		weapon_stone_hatchet_description = "2,5 miliona lat badań i rozwoju, a my nadal tu jesteśmy",
 
 		weapon_pistol_description = "Standardowy pistolet. Pistolet kalibru .45 o pojemności 12 naboi, który można rozszerzyć do 16.",
 		weapon_pistol_mk2_description = "Równowaga, prostota, precyzja: nic nie utrzymuje spokoju tak jak przedłużona lufa w ustach drugiego faceta.",
@@ -7424,7 +7444,7 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		weapon_ceramicpistol_description = "Nie ceramika twojej babci. Chociaż ten pistolet wielkości kufla jest wystarczająco mały, aby zmieścił się w jej torebce i nie uruchomi wykrywacza metalu.",
 		weapon_navyrevolver_description = "Prawdziwy kawałek muzeum. Chcesz wiedzieć, jak wygrał Zachód - wolne prędkości przeładowywania i cała kupa rozlewu krwi.",
 		weapon_gadgetpistol_description = "Broń prawdziwego zabójcy.",
-		weapon_stungun_mp_description = "Nie wiem czym się różni od normalnego paralizatora.",
+		weapon_stungun_mp_description = "Wystrzeliwuje pocisk, który podaje napięcie zdolne do chwilowego ogłuszenia napastnika. Po wystrzale ładowanie trwa około 4 sekund.",
 
 		weapon_microsmg_description = "Łączy kompaktową konstrukcję z wysoką szybkostrzelnością przy około 700-900 pocisków na minutę.",
 		weapon_smg_description = "Jest to znane jako dobry pistolet maszynowy. Lekki z celownikiem i pojemnością magazynka na 30 naboi.",
@@ -7459,6 +7479,7 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		weapon_militaryrifle_description = "Bardzo potężna broń zaprojektowana dla służby wojskowej.",
 		weapon_heavyrifle_description = "Ciężej brzmi lepiej prawda?",
 		weapon_tacticalrifle_description = "W tym sezonie jest to obowiązkowy sprzęt dla stróżów prawa, personelu wojskowego i każdego, kto jest zamknięty w walce na śmierć i życie ze stróżami prawa lub personelem wojskowym.",
+		
 		weapon_mg_description = "Karabin maszynowy ogólnego zastosowania, który łączy w sobie wytrzymałą konstrukcję z niezawodną wydajnością. Moc penetracyjna dalekiego zasięgu. Bardzo skuteczny przeciwko dużym grupom.",
 		weapon_combatmg_description = "Lekki, kompaktowy karabin maszynowy, który łączy doskonałą zwrotność z dużą szybkostrzelnością i niszczycielskim efektem.",
 		weapon_combatmg_mk2_description = "Nigdy nie możesz mieć zbyt wiele dobrego: w końcu jeśli liczy się pierwszy strzał, to następna setka musi liczyć się podwójnie.",
@@ -7527,11 +7548,11 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		weapon_addon_sentinelshotgun_description = "Shotgun który sprosta każdemu zadaniu, podstawowe wyposażenie każdego radiowozu zaraz obok Carbine Rifle AR-15.",
 
 		weapon_addon_sentinelbbshotgun = "Strzelba na gumowe pociski",
-		weapon_addon_sentinelbbshotgun_description = "Ktoś nie słucha twoich poleceń? Pokaż mu co to znaczy dostać 12mm gumowym misiaczkiem.",
+		weapon_addon_sentinelbbshotgun_description = "Ktoś nie słucha twoich poleceń? Pokaż mu co to znaczy dostać 12mm gumowym pociskiem.",
 
 		-- TODO: Add a description for this one
 		weapon_addon_stungun = "Coil Stun Gun",
-		weapon_addon_stungun_description = "Podobno ulubiona zabawka dla medyków nudzących się ale jak jebnie to poczujesz.",
+		weapon_addon_stungun_description = "Wystrzeliwuje pocisk, który podaje napięcie zdolne do chwilowego ogłuszenia napastnika. Po wystrzale ładowanie trwa około 4 sekund.",
 
 		weapon_addon_m4 = "M4 Carbine",
 		weapon_addon_m4_description = "\"Military Grade\" Właśnie dlatego został przekazany do Departamentu Policji.",
@@ -7551,9 +7572,6 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		weapon_addon_357mag = "357 Magnum",
 		weapon_addon_357mag_description = "Ten rewolwer jest najlepszym przyjacielem szeryfa.",
 
-		weapon_addon_hk416b = "H&K 416",
-		weapon_addon_hk416b_description = "Karabinek automatyczny kalibru 5,56 mm NATO wprowadzony na rynek w 2005 roku przez niemiecką firmę Heckler & Koch.",
-
 		weapon_addon_m870 = "Remington M870",
 		weapon_addon_m870_description = "Świetna strzelba sportowa jak i myśliwska.",
 
@@ -7567,13 +7585,13 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		weapon_addon_reaper_description = "Maczeta ale bardziej fancy.",
 
 		weapon_addon_berserker = "Berserk",
-		weapon_addon_berserker_description = "Fajny axe MOŁDO.",
+		weapon_addon_berserker_description = "Fajny topór.",
 
 		weapon_addon_katana = "Katana",
-		weapon_addon_katana_description = "O kurwa, NINJA!",
+		weapon_addon_katana_description = "Ninja, o tak!",
 
 		weapon_addon_stidvc = "STI DVC 2011",
-		weapon_addon_stidvc_description = "Mały ale wariat.",
+		weapon_addon_stidvc_description = "Przyszłość jest teraz stary człowieku, tylko w mniejszym kalibrze...",
 
 		weapon_addon_g36c = "Heckler & Koch G36C",
 		weapon_addon_g36c_description = "Karabinek automatyczny produkowany przez niemieckie przedsiębiorstwo Heckler und Koch Gmbh.",
@@ -7598,6 +7616,9 @@ OP.Global.Locales.Languages["pl-PL"] = {
 
 		weapon_addon_hk433 = "H&K 433",
 		weapon_addon_hk433_description = "H&K 433 to niemiecki karabinek szturmowy, który został opracowany przez firmę Heckler & Koch w 2009 r.."
+		
+		weapon_addon_m6ic = "LWRC M6IC",
+		weapon_addon_m6ic_description = "Idealny pistolet dla idealnej osoby, tylko nie zapomnij o dresie."
 	},
 
 	items = {
@@ -7630,7 +7651,6 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		not_possible_in_a_vehicle = "Nie możesz tego zrobić w pojeździe.",
 		just_used_bandage = "Poczekaj chwilę, zanim użyjesz następnej apteczki",
 		drank_gasoline_death = "Zatrucie benzyną",
-		
 		drank_bleach_death = "Zatrucie wybielaczem",
 
 		failed_burger_shot_delivery = "Nie udało się otworzyć posiłku z burgerami.",
@@ -7683,10 +7703,24 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		leave_city = "Opuść miasto",
 		leave_jail = "Opuść więzienie",
 		close_menu = "Zamknij menu"
+		
+		sentence_reduced = "Twój wyrok został zmniejszony o ${amount} miesiące, masz ${remaining} pozostałych miesięcy odsiadki.",
+		sentence_over = "Twój wyrok skończył się.",
+		remaining_time = "Pozostały czas: ${remaining} miesięcy.",
+		jailed = "Zostałeś skazany na karę więzienia trwającą ${amount} miesięcy.",
+
+		mission_help_1 = "Press ~INPUT_CONTEXT~ aby umyć podłogę.",
+		mission_help_2 = "Press ~INPUT_CONTEXT~ aby coś zjeść.",
+		mission_help_3 = "Press ~INPUT_CONTEXT~ aby ćwiczyć.",
+
+		mission_1 = "Umyj podłogę.",
+		mission_2 = "Zjedz kanapkę.",
+		mission_3 = "Poćwicz.",
+
+		mission_blip = "Więzienna aktywność"
 	},
 
 	kiosks = {
-		access_kiosk = "Wciśnij ~g~${InteractionKey} ~w~by wejść do kiosku",
 		read_catalog = "Wciśnij ~g~${InteractionKey} ~w~by przeczytać katalog"
 	},
 
@@ -7727,10 +7761,10 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		exit_game = "Rozłącz",
 		are_you_sure_you_want_to_exit = "Czy jesteś pewny, że chcesz się rozłączyć z serwerem??",
 		exiting_game = "Wychodzisz z gry...",
-		empty_slot = "Wolne miejsce",
-		new_character = "Nowa postać",
-		select_character = "Wybierz postać",
 		delete_character = "Skasuj postać",
+		select_character = "Wybierz postać",
+		new_character = "Nowa postać",
+		empty_slot = "Wolne miejsce",
 		male = "Mężczyzna",
 		female = "Kobieta",
 		name = "Imię",
@@ -7781,6 +7815,8 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		queue = "Poczekalnia",
 		queue_position_with_priority = "🐌 Jesteś ${queuePosition}/${queueTotal} w kolejce z ${queuePriorityName} priorytetem. 🕐${queueTime}",
 		queue_position_without_priority = "🐌 Jesteś ${queuePosition}/${queueTotal} w kolejce. 🕐${queueTime}",
+		you_are_through = "You are through!",
+		join_server = "Dołącz do serwera.",
 		tired_of_queueing = "Masz dość stania w kolejce? Wesprzyj nas, aby uzyskać priorytet kolejki!",
 		joining_battle_royale = "Dołączenie do Battle Royale",
 		joining_arena = "Dołączenie do Areny",
@@ -7818,9 +7854,14 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		random = "Losowo",
 		beginner = "Początkujący",
 		custom = "Niestandardowe"
+		
+		appreciated_tier = "Appreciated Tier",
+		respected_tier = "Respected Tier",
+		heroic_tier = "Heroic Tier",
+		legendary_tier = "Legendary Tier",
+		godlike_tier = "Godlike Tier"
 	},
 
-	
 	loot = {
 		press_to_pick_up = "Naciśnij ~INPUT_CONTEXT~, aby odebrać ${itemLabel}."
 	},
@@ -7914,7 +7955,6 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		drill_scan_stone = "[${InteractionKey}] Wiercenie kamienia, [${SeatEjectKey}] Skanowanie kamienia",
 		scan_stone = "[${SeatEjectKey}] Skanowanie kamienia",
 		drill_stone = "[${InteractionKey}] Wiercenie kamienia",
-		scanning = "Skanowanie (${percentage}%)",
 		scanning_stone = "Skanowanie",
 		drilling = "Wiercenie (${percentage}%)",
 		failed_drill_stone = "Nie udało się wywiercić kamienia.",
@@ -8057,7 +8097,6 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		uptime = "Uptime: ${uptime}"
 	},
 
-	
 	money = {
 		invalid_server_id = "Nieprawidłowe id gracza.",
 		invalid_amount = "Nieprawidłowa ilość.",
@@ -8083,7 +8122,6 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		bill_created_details = "${consoleName} stworzył rachunek $${amount} dla ${targetConsoleName}."
 	},
 
-	
 	moonshine = {
 		fill_chamber = "[${InteractionKey}] Napełnianie beczki",
 		collect_moonshine = "[${InteractionKey}] Zbierz bimber",
@@ -8353,7 +8391,6 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		local_ped_models_title = "Lokalne pedy",
 		animal_ped_models_title = "Pedy zwierząt",
 
-		
 		fast_movement_title = "Szybkie przemieszczanie się",
 		fast_movement_about = "Jest tu wymieniony każdy gracz, który został oznaczony za zbyt szybkie poruszanie się. To powinno pomóc w znalezieniu graczy, którzy są potencjalnymi modderami.",
 
@@ -8375,23 +8412,590 @@ OP.Global.Locales.Languages["pl-PL"] = {
 
 		freecam_detections_name = "Nick gracza",
 		freecam_detections_distance = "Maksymalny dystans",
+		
+		hotwire_driving_detections_name = "Nazwa gracza",
 
 		no_entries = "Brak wpisów"
 	},
 
-	panic = {
-		press_panic_button = "Masz 5 sekund na naciśnięcie panic button'a (X).",
-		panic_button_timeout = "Nie nacisnąłeś panic button'a na czas.",
+	oxy = {
+		press_to_talk_to_jc = "Naciśnij ~g~${InteractionKey} ~w~aby porozmawiać z JC.",
+		tutorial_will_play_next_time = "Samouczek oxy zostanie odtworzony, gdy następnym razem rozpoczniesz sprzedaż.",
+		prescription_pick_up = "Odbiór recepty: ${label}",
 
-		panic_button_title = "[Dispatch]",
+		pick_up_the_prescriptions = "Podnieś sfałszowane recepty zaznaczone na mapie.",
+		redeem_them_at_the_city = "Gdy to zrobisz, musisz odzytać je w mieście.",
+		jc_will_be_expecting_some_back = "~y~JC ~w~będzie spodziewał się 6 ${pickUpAmount} Oxy z powrotem.",
+		you_have_limited_time = "Masz ograniczoną ilość czasu. Musisz wrócić z pigułkami ${time}.",
+		press_to_hide_unimportant_blips_in_map = "Naciśnij ~INPUT_SPRINT~ aby ukryć znaczniki niezwiązane z misjami na mapie menu pauzy.",
+		consider_getting_a_smart_watch = "Rozważ zakup smartwatcha, aby zawsze widzieć swój GPS.",
 
-		panic_button_unit = "10-13, ${unitId} ${lastName} ${label} ranny.",
-		panic_button_no_unit = "10-13, ${lastName} ${label} ranny.",
+		press_to_pick_up_prescription = "Naciśnij ~g~${InteractionKey} ~w~aby podnieść receptę.",
 
-		panic_blip = "10-13 ${lastName}",
+		redeem_oxy_prescription = "Zrealizuj receptę Oxy",
+		press_to_redeem_prescription = "Naciśnij ~g~${InteractionKey} ~w~aby zrealizować receptę.",
 
-		label_officer = "funkcjonariusz",
-		label_paramedic = "medyk"
+		check_your_map_to_redeem_prescriptions = "Dobra robota! Sprawdź swoją mapę, aby zrealizować recepty. Zostało Ci ${time} czasu.",
+		go_to_jc_to_finish_run = "Świetna robota! Wróc teraz do ~y~JC ~w~i zakończ sprzedaż. Zostało Ci ${time} czasu.",
+
+		oxy_run_started_title = "Sprzedaż Oxy Rozpoczęta",
+		oxy_run_started_details = "${consoleName} rozpoczął sprzedaż oxy.",
+
+		oxy_run_ended_title = "Sprzedaż Oxy Zakończona",
+		oxy_run_ended_details = "${consoleName} skończył sprzedaż oxy w czasie ${time} i zarobił $${payout}.",
+
+		oxy_run_failed_title = "Sprzedaż oxy nierozpoczęta",
+		oxy_run_failed_details = "${consoleName} nierozpoczął sprzedaży oxy.",
+
+		you_failed_the_run = "Nie udało ci się sprzedać oxy. ~y~JC ~w~nie będzie z Ciebie zadowolony przez pewien czas.",
+
+		time_left = "Zostało Ci ${time} czasu.",
+
+		accidental_call_1_part_1 = "Yooo, what you saying my drilla?",
+		accidental_call_1_part_2 = "Ok basically what I've done right now; we're gonna set up a little thing right now cause there's some guy running oxy and that bro.",
+		accidental_call_1_part_3 = "Yea I got down his plate, his car, all of that though.",
+		accidental_call_1_part_4 = "And basically, when he gets out the car to deliver the thing bro I need you to jump in and take that for me bro.",
+		accidental_call_1_part_5 = "Nah he's got no clue it's gonna be us bro, I sent him downtown so he's probably gonna be thinking it's some sort of gang or something bro.",
+		accidental_call_1_part_6 = "Trust me it's easy.",
+		accidental_call_1_part_7 = "Ohhhh! Yoo, what you saying my guy?! Not you, the other man! I sent two men! Not you though!",
+		accidental_call_1_part_8 = "You're chilling though! Wrong guy though... but it was some.. different guy bro. Wasn't you though.",
+		accidental_call_1_part_9 = "Was not you. You know what I'm saying? It was not you though!",
+		accidental_call_1_part_10 = "But watch out though, cause you fuck around I'll definitely take your car though.",
+		accidental_call_1_part_11 = "Love.",
+
+		accidental_call_2_part_1 = "Yooo, what you sayin' babes?",
+		accidental_call_2_part_2 = "Yeah I can't lie, I just wanna rub mustard all over your feet and lick it off like a hot dog and all of that.",
+		accidental_call_2_part_3 = "Yo babes.",
+		accidental_call_2_part_4 = "Wait..",
+		accidental_call_2_part_5 = "Oh fuck, my bad.",
+
+		accidental_call_3_part_1 = "Yooo, what you sayin' bro?",
+		accidental_call_3_part_2 = "Ye ye, I just done that new hip-hop song you wanted bro.",
+		accidental_call_3_part_3 = "Yeah it goes a little bit like this..",
+		accidental_call_3_part_4 = "I wanna love you babyy, I wanna love you, I wanna love you, I wanna kiss you on the feet, I wan-",
+		accidental_call_3_part_5 = "Wooooah, woah woah.. I meant, you know.. that weren't me though..",
+		accidental_call_3_part_6 = "Okay, wrong number, my bad brother, my bad..",
+
+		accidental_call_4_part_1 = "Yooo bro, when you gonna come around my crib and play my little pony with me my bro?",
+		accidental_call_4_part_2 = "It's been way too long and that, and I need, bruv you know I like the sparkly one and-",
+		accidental_call_4_part_3 = "Ooookay.. yo wrong number bro, my bad about that, you didn't hear that though.",
+		accidental_call_4_part_4 = "'cos if you did, you're dead, you know what I'm sayin'?",
+
+		accidental_call_5_part_1 = "Yo mummy, I'm kinda scared right now..",
+		accidental_call_5_part_2 = "Yeah there were some guys outside my door, an- I don't know what to do mum.",
+		accidental_call_5_part_3 = "I'm a little bit afraid, cos I think I'm in the deep end you know..",
+		accidental_call_5_part_4 = "Mum.. oh, ohh.. oh, yo! What you sayin' bro?",
+		accidental_call_5_part_5 = "Yeah, no, do you like my acting skills and that yeah?",
+		accidental_call_5_part_6 = "Trust me though, ay but don't ever ever ever record that call again bro or you're dead.",
+		accidental_call_5_part_7 = "You know what I'm sayin'? I will come around there and I will cut you up differently bro.",
+		accidental_call_5_part_8 = "You know what I'm sayin' bro?",
+		accidental_call_5_part_9 = "Trust me on that, fuck you bro.",
+
+		accidental_call_6_part_1 = "Yo yo little bro, come here yeah.",
+		accidental_call_6_part_2 = "Your dad's on the phone bro, your dad's on the phone.",
+		accidental_call_6_part_3 = "I know you ain't seen him bro, take that, take that, take that bro, take that, take that.",
+		accidental_call_6_part_4 = "Hello? Daddy is that you?",
+		accidental_call_6_part_5 = "Dad?!",
+		accidental_call_6_part_6 = ".. wait no that's not dad, that's somebody else! No! Why-",
+		accidental_call_6_part_7 = "You're a dickhead, I can't believe you fell for that bro!",
+		accidental_call_6_part_8 = "Ohh my god..",
+
+		maxed_out_runs_part_1 = "Bro, I know you like bread but you need to let some of the other mandem get some.",
+		maxed_out_runs_part_2 = "Stop running this bro.",
+		maxed_out_runs_part_3 = "Go chat to some dickheads at Trash HQ or somethin' man.",
+
+		mission_completed_1_part_1 = "Yoo wag1 bro, ay I can't lie that was good shit though, I knew I could trust you bro.",
+		mission_completed_1_part_2 = "Ay, if you ever need to make some more cash you know where to find me though.",
+		mission_completed_1_part_3 = "I'ma be stocked up soon, don't you worry about that.",
+
+		mission_completed_2_part_1 = "Yoo what you sayin' bro.",
+		mission_completed_2_part_2 = "I can't lie, that job was a good one right there.",
+		mission_completed_2_part_3 = "Yeah, trust me though, the clients love you right now and I love you aswell, 'cos you know why?",
+		mission_completed_2_part_4 = "You got me money; You got you some money.",
+		mission_completed_2_part_5 = "You take that, come back later though, 'cos I need you again my guy.",
+
+		mission_completed_3_part_1 = "Yoo what you sayin' bro.",
+		mission_completed_3_part_2 = "Ay I can't lie, that ting back there.. LOVELY bro.",
+		mission_completed_3_part_3 = "You couldn't have done it better bro.",
+		mission_completed_3_part_4 = "Last man fucked up, so I'm glad I got you.",
+		mission_completed_3_part_5 = "Come back later bro, trust me, I got some more shit for you bro.",
+
+		mission_completed_4_part_1 = "Yoooo, you know how to sell init?",
+		mission_completed_4_part_2 = "You might have to be a business man out 'ere bro, trust me though.",
+		mission_completed_4_part_3 = "The way you were selling it to these lot was craazy bro.",
+		mission_completed_4_part_4 = "Yeah yeah, oy, love for that though.",
+		mission_completed_4_part_5 = "I appreciate you differently though, so come back later I got you with the pills bro.",
+		mission_completed_4_part_6 = "I got more, yeah yeah, trust me though.",
+
+		mission_completed_5_part_1 = "Ay what you doin' 'ere bro?",
+		mission_completed_5_part_2 = "Ohh, it's you! Yo, what you sayin' bro?",
+		mission_completed_5_part_3 = "Yeah, ay, love for- ay love for that though.",
+		mission_completed_5_part_4 = "'cos you blessed me BIG time with that! I got bare cash now, I'ma buy myself a fresh new EDM whip ya know what I'm sayin' bro?",
+		mission_completed_5_part_5 = "Dinka Blista, all of that, yeah, oy but come back later though, legit though.",
+		mission_completed_5_part_6 = "'cos I got some more shit for you bro.",
+
+		mission_completed_6_part_1 = "Yoo you should've seen Gogginschmiel' face earlier bro.",
+		mission_completed_6_part_2 = "He looked like a dickhead, I can't lie.",
+		mission_completed_6_part_3 = "You didn't know he was behind you?!",
+		mission_completed_6_part_4 = "He was though, but good shit though.",
+		mission_completed_6_part_5 = "I can't lie, you're too good at this bro.",
+		mission_completed_6_part_6 = "Come back later, I got you with some more bro.",
+
+		mission_completed_7_part_1 = "Yoo what you sayin' bro?",
+		mission_completed_7_part_2 = "Ay I can't lie, that ting back there.. LOVELY bro.",
+		mission_completed_7_part_3 = "You couldn't have done it better bro.",
+		mission_completed_7_part_4 = "Last man fucked up, so I'm glad I got you.",
+		mission_completed_7_part_5 = "Come back later bro, trust me, I got some more shit for you bro.",
+
+		mission_completed_8_part_1 = "Ay, this is bossman I was talking about bro. Yeah trust me, he's so sick bro.",
+		mission_completed_8_part_2 = "This guy is too sick.",
+		mission_completed_8_part_3 = "He delivers every time, on time.",
+		mission_completed_8_part_4 = "The clients love this guy.",
+		mission_completed_8_part_5 = "Trust me, he's coming up in the world type shit, but you're never gonna beat me though.",
+		mission_completed_8_part_6 = "'cos you gotta be a dickhead, you know what I'm sayin'?",
+		mission_completed_8_part_7 = "But love though, come back later I got you with some more pills bro.",
+
+		mission_failed_1_part_1 = "Yeah bro, I can't lie the client called me and he said you didn't even deliver it to my man.",
+		mission_failed_1_part_2 = "What's going on bro?",
+		mission_failed_1_part_3 = "You fucked up big time.",
+		mission_failed_1_part_4 = "Get out of my sight bro.",
+		mission_failed_1_part_5 = "If I EVER see you again bro, it's over for you.",
+
+		mission_failed_2_part_1 = "Yeah we got a big problem right now.",
+		mission_failed_2_part_2 = "I can't lie, you were too late, what's going on though?",
+		mission_failed_2_part_3 = "Yeahh bro, of course my clients are pissed bro!",
+		mission_failed_2_part_4 = "Ay, don't even bother tryna pick somethin' up from me again bro.",
+		mission_failed_2_part_5 = "Fuck you, you're done bro.",
+
+		mission_failed_3_part_1 = "Yeah, yeah, yeah, yeah, oi, oi..",
+		mission_failed_3_part_2 = "I can't lie though.",
+		mission_failed_3_part_3 = "You're the first guy I'm ever gonna say this to.",
+		mission_failed_3_part_4 = "You're a dickhead.",
+		mission_failed_3_part_5 = "You know that? Yeah? You're a dickhead.",
+		mission_failed_3_part_6 = "You know why?",
+		mission_failed_3_part_7 = "'cos you didn't even deliver my shit bro.",
+		mission_failed_3_part_8 = "Fuck off bro. I don't wanna see you around my spot again bro.",
+		mission_failed_3_part_9 = "It's on sight for you, I swear to god bro.",
+		mission_failed_3_part_10 = "I've got the matics on, I've got the ooters on.",
+		mission_failed_3_part_11 = "It's up for you bro.",
+		mission_failed_3_part_12 = "Yeah, that's it.. fuck off bro.",
+
+		mission_failed_4_part_1 = "Yoo, what you sayin' bro?",
+		mission_failed_4_part_2 = "Ay, just a quick thing right now.",
+		mission_failed_4_part_3 = "If you ever come near me again, you're dead.",
+		mission_failed_4_part_4 = "Yeah, do you know why?",
+		mission_failed_4_part_5 = "'cos you're shit bro, you keep failing my shit bro.",
+		mission_failed_4_part_6 = "What's going on with that?",
+		mission_failed_4_part_7 = "The clients are pissed, they're coming at me saying I'm the dickhead bro.",
+		mission_failed_4_part_8 = "I can't believe I came to you.",
+		mission_failed_4_part_9 = "I thought you was my guy or somethin' bro",
+		mission_failed_4_part_10 = "But nah, you're just a dickhead bro, so fuck you bro.",
+		mission_failed_4_part_11 = "Get out my sight bro.",
+
+		mission_failed_5_part_1 = "Yeah you didn't do too good on the last one..",
+		mission_failed_5_part_2 = "I can't lie bro, you fucked up big time.",
+		mission_failed_5_part_3 = "So don't ever come to my spot!",
+		mission_failed_5_part_4 = "'cos I swear to god, I'ma fuck you up bro.",
+
+		mission_failed_6_part_1 = "Yo, what you sayin' bro?",
+		mission_failed_6_part_2 = "Ay, if you ever come to my spot again bro.",
+		mission_failed_6_part_3 = "I'ma get the rambo and I'ma let that thing rip on your head bro!",
+		mission_failed_6_part_4 = "I swear to god! You fucked me up bro!",
+		mission_failed_6_part_5 = "The clients are bellin' me, tellin' me how PISSED they are right now.",
+		mission_failed_6_part_6 = "It's all your fault bro, it's all your fault..",
+
+		mission_failed_7_part_1 = "Don't come to my spot bro, fuck you bro.",
+
+		mission_failed_8_part_1 = "Ay bro, fuck off till you clear my packs bro.",
+
+		mission_failed_9_part_1 = "Ay bro, fuck off till you clear my pack.",
+		mission_failed_9_part_2 = "Nah bro, don't ever come back to me until my tings done bro.",
+		mission_failed_9_part_3 = "You fucked up big time, get out of 'ere bro.",
+
+		mission_failed_10_part_1 = "Yo bro, you better pray that you make it home tonight bro.",
+		mission_failed_10_part_2 = "'cos I'm coming for you bro.",
+		mission_failed_10_part_3 = "Yo bro, don't ever fail me again bro, I swear to god bro.",
+
+		no_pills_1_part_1 = "Yoo wag1 bro, basically.. It's a bit of a sticky one.",
+		no_pills_1_part_2 = "'cos I don't have anything right now.",
+		no_pills_1_part_3 = "So basically, what I'ma say..",
+		no_pills_1_part_4 = "Fuck off bro, come back another time.",
+
+		no_pills_2_part_1 = "Yeah, what you sayin' bro. Ay basically it's a- it's a bit fucked right now..",
+		no_pills_2_part_2 = "'cos I don't have nothin' right now. Don't have no pills bro!",
+		no_pills_2_part_3 = "Yeah, they- they fucked me! I got nothin' bro!",
+		no_pills_2_part_4 = "Ay, I- I called these lot, I said.. Yo wag1 though, wheres the pills at?..",
+		no_pills_2_part_5 = "My man said they're not even here bro.",
+		no_pills_2_part_6 = "These lot travelling on some sort of Liberty City thing or somethin' bro like..",
+		no_pills_2_part_7 = "They taking too long bro.",
+		no_pills_2_part_8 = "But trust me, when I got more, I'ma definitely hit you up on that bro.",
+
+		no_pills_3_part_1 = "Yo, what you sayin' my guy?",
+		no_pills_3_part_2 = "We got no pills right now bro, so why don't you fuck off bro?",
+		no_pills_3_part_3 = "Before I start getting pissed, you know what I'm sayin'?",
+
+		no_pills_4_part_1 = "Yoo, wag1 bro? No pills right now, so bun.. bun bro..",
+		no_pills_4_part_2 = ".. bun, you're done bro, fuck off bro.",
+		no_pills_4_part_3 = "Get out of here bro, you're done.",
+
+		no_pills_5_part_1 = "Yoooooo.. my guy!",
+		no_pills_5_part_2 = "What you saying bro? Ay, I can't lie, we don't have nothin' right now.",
+		no_pills_5_part_3 = "So it's a bit peak for you right now.",
+		no_pills_5_part_4 = "But basically, come back in a bit and I got you.",
+		no_pills_5_part_5 = "Love bro.",
+
+		no_pills_6_part_1 = "Bro.. I told about 2 people before you I got nothin' right now..",
+		no_pills_6_part_2 = "So why don't you listen to your lil' boys and go fuck yourselves as a collective my man.",
+		no_pills_6_part_3 = "You know what I'm sayin'? That's it you're done out 'ere bro, fuck you bro.",
+
+		no_pills_7_part_1 = "Yeah I'm the BIG thing around 'ere, you know what I'm sayin'?",
+		no_pills_7_part_2 = "But the big thing got no big pills right now.. so basically your small thing gotta fuck off.",
+		no_pills_7_part_3 = "You know what I'm sayin'?.",
+
+		no_pills_8_part_1 = "Yo, yo, what you sayin'?",
+		no_pills_8_part_2 = "Ay, ay, ay, I got- I gotta lie low bro.",
+		no_pills_8_part_3 = "Yeah, ay I can't lie.. there were some feds that came around earlier..",
+		no_pills_8_part_4 = "We got no pills right now. You know what I'm sayin'.",
+		no_pills_8_part_5 = "It's off for me right now. Come back later though when the heat dies down bro.",
+
+		no_pills_9_part_1 = "Yeah, ay I can't lie some dickheads earlier, they run up to me and they took my shit bro.",
+		no_pills_9_part_2 = "But don't worry I got the ooters on 'em right now.",
+		no_pills_9_part_3 = "So when we get the pills, definitely come back and I'll bail you, I got that bro.",
+
+		no_pills_10_part_1 = "Yoo, what you sayin' bro?",
+		no_pills_10_part_2 = "Yeah, right now, there's some dickhead gang up north or somethin' bro.",
+		no_pills_10_part_3 = "They robbed that thing, so we're gonna go there together, get that back and we're gonna bail you bro.",
+		no_pills_10_part_4 = "Love for that.",
+
+		no_pills_11_part_1 = "Yoo, what you sayin'? Yeah there's nothin' right now bro.. there's nothin' right now.",
+		no_pills_11_part_2 = "It's a bit peak for you right now. There's nothin' right now.",
+		no_pills_11_part_3 = "But basically, I'ma tell you this right what I tell to everyone..",
+		no_pills_11_part_4 = "Why don't you FUCK OFF bro.. and come back later. Love.",
+
+		no_pills_12_part_1 = "Nah I got nothin' on me right now bro.",
+		no_pills_12_part_2 = "Come back later man, come back later..",
+
+		no_pills_13_part_1 = "Bro! Fuck off man! I got nothin' bro!",
+		no_pills_13_part_2 = "I got nothin' bro! Ay, be quiet bro!",
+
+		no_pills_14_part_1 = "Look bro, I told you, I got no pills right now.",
+		no_pills_14_part_2 = "So if you're tryna get ching bro, come at me one more time, I beg you bro.",
+
+		no_pills_15_part_1 = "Nah, listen to me bro.. you're pissing me off right now.",
+		no_pills_15_part_2 = "I can't even lie to you about that.",
+		no_pills_15_part_3 = "So I'm actually gonna start chinging man up if you don't fuck off bro.",
+
+		not_leaving_1_muffled_part_1 = "Alright, why is bro still posted?",
+		not_leaving_1_muffled_part_2 = "Is he a fed?",
+		not_leaving_1_muffled_part_3 = "Ay, oi.. check him if he's a fed bro, check him if he's a fed bro.",
+
+		not_leaving_2_part_1 = "Oi fuck off bro, get out of here bro.",
+
+		not_leaving_3_part_1 = "Bro, can you stop being here right now..",
+		not_leaving_3_part_2 = "I'm tryna do somethin'. You know what I'm sayin'.",
+		not_leaving_3_part_3 = "I'm tryna lips my bird bro, and you're out 'ere staring at me like some sort of dickhead bro.",
+		not_leaving_3_part_4 = "Fuck off bro.",
+
+		not_leaving_4_part_1 = "Oi, PLEASE bro, get out of here bro.",
+		not_leaving_4_part_2 = "Ah- I swear to god bro.",
+
+		not_leaving_5_part_1 = "Bro you're taking the piss now, I can't lie..",
+		not_leaving_5_part_2 = "I'm actually gonna come over there and wet you up my guy.",
+		not_leaving_5_part_3 = "You better fuck off real quickly bro.",
+
+		not_leaving_6_part_1 = "Bro.. I'm the big boss around here bro.",
+		not_leaving_6_part_2 = "Stop acting like you own the place and fuck off and do my thing bro.",
+
+		not_leaving_7_part_1 = "Oi I swear to god, you do this again I'ma call the backup dancers bro.",
+		not_leaving_7_part_2 = "They're gonna do somethin' different to you bro.",
+
+		not_leaving_8_muffled_part_1 = "Alright, wet him up bro, wet him up.. he's taking too long.",
+
+		not_leaving_9_part_1 = "Broo, don't get me to bring out the big chinga bro.",
+		not_leaving_9_part_2 = "I'll beg you stop stepping on MY block right there bro.",
+		not_leaving_9_part_3 = "You better back off your ting and do your ting right now, you're taking too long bro.",
+		not_leaving_9_part_4 = "You're in MY house and MY crib, you think you're some big sorta guy bro.",
+		not_leaving_9_part_5 = "You wait bro, I'ma FUCK you up bro.",
+
+		not_leaving_10_muffled_part_1 = "Yeah this guy's getting gassed in the corner like he owns my block or somethin' bro.",
+
+		not_leaving_11_part_1 = "Ay, move on init, move on bro..",
+		not_leaving_11_part_2 = "You're done over here bro.",
+
+		not_leaving_12_muffled_part_1 = "Ay, it's a sticky one for this guy.",
+		not_leaving_12_muffled_part_2 = "He's taking too long bro, ay fuck off bro!",
+		not_leaving_12_muffled_part_3 = "I can see you right now, fuck off bro!",
+
+		not_leaving_13_muffled_part_1 = "Bruv! This guy's taking way too long on suttin' like..",
+		not_leaving_13_muffled_part_2 = "He's a dickhead.. he's gotta be a dickhead or suttin' bro..",
+		not_leaving_13_muffled_part_3 = "He's definitely a dickhead.",
+
+		start_1_part_1 = "Oi bro, broo.. ay, come here, come here..",
+		start_1_part_2 = "Yo, ay ay.. You tryna run some more oxy bro?",
+		start_1_part_3 = "Ayy, love for that, love for that..",
+		start_1_part_4 = "Ay, you know what to do though alright?",
+		start_1_part_5 = "Ay, I'ma basically though, I'ma send you the ping right now though.",
+		start_1_part_6 = "Love though.",
+
+		start_2_part_1 = "Ay, wag1 bro! Come over here real quick my guy!",
+		start_2_part_2 = "Yeah yeah.. You tryna run the oxy again bro?",
+		start_2_part_3 = "Love for that brooo.",
+		start_2_part_4 = "You know what to do though alright, of course you do bro.",
+
+		start_3_part_1 = "Ay.. ay bro, come here bro, come here bro.",
+		start_3_part_2 = "You tryna run some oxy again bro?",
+		start_3_part_3 = "Is it? Oi, come.. come.. you're not a fed though right?",
+		start_3_part_4 = "Ok.. ok.. Love though, ay, ay, you know what to do though, I'ma send you the ping and all of that bro.",
+
+		start_4_part_1 = "Ay! Are you that dickhead from last time?!",
+		start_4_part_2 = "Oi, come here bro! You done a good job last time I can't lie to you about that..",
+		start_4_part_3 = "So basically yeah.. run that again bro, you know what to do, I'ma send you the ping my guy.",
+		start_4_part_4 = "Love for that.",
+
+		start_5_part_1 = "Ay come here you little dickhead bro!",
+		start_5_part_2 = "Yeah, yeah, yeah.. I kno- I knew who you are bro..",
+		start_5_part_3 = "Don't tell me, I don't care who you are bro.. but I know who you are.",
+		start_5_part_4 = "But basically what I want you to do though, is I need you to run the oxy pills again.",
+		start_5_part_5 = "You know the things from last time bro? You know the drill though right?",
+		start_5_part_6 = "So I'ma send you the thing on the phone bro, Love for that.",
+
+		start_6_part_1 = "Yooo, is it my guy from over there! What you sayin' bro!",
+		start_6_part_2 = "Ayy, wag1 and all of that.. my guy.",
+		start_6_part_3 = "Ay, basically though.. I can't lie I need you again for a little mission like..",
+		start_6_part_4 = "Yeah yeah, you kno- you know what I'm on about, you know what I'm on about..",
+		start_6_part_5 = "The oxy, yeah yeah, of course you do. Ay, basically I'm gonna send you the thing on the phone.",
+		start_6_part_6 = "You do what you have to do big bro, love for that.",
+
+		start_7_part_1 = "Yeah, yeah, yeah, yeah, yeah, it's- hey, it's this dickhead from earlier bro!",
+		start_7_part_2 = "I remember this guy! Yeah, ay, you're a funny guy bro, I like you, I like you..",
+		start_7_part_3 = "Oi, I need you to run me the oxy again though I can't lie. So hurry that up big man.",
+		start_7_part_4 = "I'ma send you the ping, I'ma send you the details.. Yeah, yeah..",
+		start_7_part_5 = "And remember though..",
+		start_7_part_6 = "Half of that's mine, so don't- don't go taking none of that or I swear to god I'ma ching you out 'ere bro, ok.",
+
+		start_8_look_to_sides_part_1 = "Ay bro, I swear I saw Gogginschmiel go past right there bro..",
+		start_8_look_to_sides_part_2 = "Ay come here, come here, come here bro, stop tryna be bait bro.",
+		start_8_look_to_sides_part_3 = "Yo, yo.. what I need you to do for me right now though, is I need you to go get them pills for me.",
+		start_8_look_to_sides_part_4 = "I need you to run them pills for me alright boss man.",
+		start_8_look_to_sides_part_5 = "I'ma send you the details on the encro bro you know the drill right now.",
+		start_8_look_to_sides_part_6 = "But keep your head low, 'cos I been spotting bare feds go past like that ok?",
+		start_8_look_to_sides_part_7 = "If you get caught though! Don't snitch to me 'cos you're dead brudda!",
+		start_8_look_to_sides_part_8 = "You see what I'm sayin'? Love for that.",
+
+		start_9_look_to_sides_part_1 = "Yo I can't lie I just seen a cop go past there bro!",
+		start_9_look_to_sides_part_2 = "You sure you weren't getting followed or none of that?",
+		start_9_look_to_sides_part_3 = "'cos I- ay I can't lie FIB right now are doing some next level shit bro.",
+		start_9_look_to_sides_part_4 = "They got bare choppers in the air and shit bro.",
+		start_9_look_to_sides_part_5 = "I'm all seeing and all knowing bro. Trust me on that.",
+		start_9_look_to_sides_part_6 = "Yeah yeah.. he was fully on you earlier bro, you remember- you remember that charger you went past bro?",
+		start_9_look_to_sides_part_7 = "But he didn't turn the lights on? Trust me though..",
+		start_9_look_to_sides_part_8 = "Yeah I know that, I know that.",
+
+		start_burger_shot_part_1 = "Yo I seen you at Burger Shot one time.. you flip patties init?",
+		start_burger_shot_part_2 = "Yeah I can't lie, you defo need this bread.",
+
+		start_cop_1_part_1 = "Yo I can smell a fed from Maze Bank bro..",
+		start_cop_1_part_2 = "I can tell you're a fed.",
+		start_cop_1_part_3 = "Better call backup before I get to airing out your little boy cop car bro.",
+
+		start_cop_2_part_1 = "Ay wag1 officer, nah we just helping out the sick people of Blaine County.",
+		start_cop_2_part_2 = "Nothin' illegal going over here bro.",
+
+		start_gang_member_part_1 = "I swear I saw you get clapped by that one gang..",
+		start_gang_member_part_2 = "Yeaah yeaah, you defo got shat on, I can tell with that dickhead face paint.",
+
+		start_group_part_1 = "Yo I heard you boys wanna go and uh- run some oxy for me like that.",
+		start_group_part_2 = "I can't lie, the more the merrier right now, but I can only give the pills to one of you mandem.",
+		start_group_part_3 = "So make sure you take that nicely, go with your little squad or whatever and go get this shit done bro.",
+		start_group_part_4 = "'cos time is money right now bro, you see what I'm sayin'",
+		start_group_part_5 = "You're taking too long standing 'ere bro, hurry up man, fuck off bro.",
+
+		start_knife_part_1 = "Ookayy, that's a big rambo on your waist my bro!",
+		start_knife_part_2 = "Bro better not swing that thing around 'ere 'cos it's gonna get peak for you my brother!",
+
+		start_last_fail_part_1 = "Yooo, is it my guy from over there, what you sayin' bro? Ay, wag1 and all of that, my guy!",
+		start_last_fail_part_2 = "Ay basically though.. I can't lie I need you again for a little mission like..",
+		start_last_fail_part_3 = "Yeah yeah.. you know- you know what I'm on about, you know what I'm on about, the oxy, yeah, yeah of course you do.",
+		start_last_fail_part_4 = "Ay, basically I'm gonna send you the thing on the phone.",
+		start_last_fail_part_5 = "You do what you have to do big bro, love for that.",
+
+		start_legendary_tier_part_1 = "Ohhh, so you're big ballin' like that?",
+		start_legendary_tier_part_2 = "Legendary tier, okayy, looks like you might have to buy the whole floor for EDM my brother!",
+		start_legendary_tier_part_3 = "Come on.",
+
+		start_mechanic_part_1 = "Yoo, you repair cars init?",
+		start_mechanic_part_2 = "Yo g, after this I'ma need you to tune up my Asbo 'cos the dinga got too many dents in it bro.",
+
+		start_mercedes_part_1 = "Yo I love that Mercedes you got bro!",
+		start_mercedes_part_2 = "I can't lie I'ma need that off you when you're finished 'ere with this little thing right 'ere bro.",
+
+		start_no_gun_part_1 = "Bro comin' here on a friendly visit like you're not gonna get robbed.",
+		start_no_gun_part_2 = "You're lucky the ooters are out right now but..",
+		start_no_gun_part_3 = "Stay strapped next time yo.",
+
+		start_on_timer_1_part_1 = "Ay I can't lie to you bro, you failed the last one so what you doin' over here bro?",
+		start_on_timer_1_part_2 = "Nahh bro, come back later when you decide to get your act together you DICKhead.",
+
+		start_on_timer_2_part_1 = "Nahh bro, last time you failed me bro..",
+		start_on_timer_2_part_2 = "Go fuck off and do somethin' else my man.",
+
+		start_on_timer_3_part_1 = "Is it? You think you can come around here after fucking up like that bro?",
+		start_on_timer_3_part_2 = "Nah you better fuck off before I get the ooters on you bro!",
+
+		start_on_timer_4_part_1 = "Yeah I can't lie last time you fucked up bare bro..",
+		start_on_timer_4_part_2 = "I can't lie it's gonna look a bit peak for you if you stay here for about 2 more seconds my boy..",
+
+		start_on_timer_5_part_1 = "Yoo, what you sayin' g?",
+		start_on_timer_5_part_2 = "I can't lie you fucked up last time bro, you didn't even get the pills bro.",
+		start_on_timer_5_part_3 = "Like you fucked up big time bro like..",
+		start_on_timer_5_part_4 = "Don't come down here ever again bro! You know what I'm sayin'?",
+		start_on_timer_5_part_5 = "I know your name, I seen your face bro. You're finished out here bro.",
+
+		start_on_timer_6_part_1 = "Yeah this guy thinks he's a bad boy init? Fuckin' up and comin' back to me and actin' all sorry like..",
+		start_on_timer_6_part_2 = "Nahh bro, it don't work like that around here bro.",
+		start_on_timer_6_part_3 = "You better fuck off right now my guy!",
+
+		start_on_timer_7_part_1 = "Yeah I can't lie, this guy FUCKED up..",
+		start_on_timer_7_part_2 = "You see this guy over here? You see this dickhead right here yeah?",
+		start_on_timer_7_part_3 = "He fucked up bro, ay bro come here bro!",
+		start_on_timer_7_part_4 = "Yeah I can't lie, you're a dickhead, get out of here bro, come back later man.",
+
+		start_on_timer_8_part_1 = "Yeah you're some typea guyy bro..",
+		start_on_timer_8_part_2 = "This guy goes around MY thing bro.. fucks up MY thing bro.. pisses off MY people bro.",
+		start_on_timer_8_part_3 = "Then comes back he expecting a re-up, expect to get PAID bro!",
+		start_on_timer_8_part_4 = "Expect to get the bread bro.. you ain't getting no bread bro..",
+		start_on_timer_8_part_5 = "You're getting crumbs bro.. get the FUCK off my block bro!",
+		start_on_timer_8_part_6 = "Get out of here bro, you are done and all of that.",
+		start_on_timer_8_part_7 = "The phone just pinged aswell bro, you're finished bro! I got someone else on this thing bro.",
+
+		start_over_31d_part_1 = "Yo I can't lie bro! You been here for too long..",
+		start_over_31d_part_2 = "I beg you go touch something quickly and come back bro.",
+
+		start_over_100k_part_1 = "Why you pushin' grub when you got over a 100 bags to your name?",
+		start_over_100k_part_2 = "That ain't in cash right? 'cos I'ma defo send the ooters to rob you bro.",
+
+		start_revving_part_1 = "Aite if you keep revving that piece of shit car bro, we finna have problems.",
+		start_revving_part_2 = "Relax your foot, before I relax you bro!",
+
+		start_staff_1_part_1 = "Ay yo bro.. ain't you meant to be like banning dickheads and other dickhead shit instead of talking to me?",
+		start_staff_1_part_2 = "Fuck it, I need the bread but I'm watching you admins.",
+
+		start_staff_2_part_1 = "Broo, you're like the second moderator to be running oxy today..",
+		start_staff_2_part_2 = "You lot need to be on job, not on this job though.",
+
+		start_streamer_part_1 = "Yoooo, that's that one guy who thinks he's some big streamer!",
+		start_streamer_part_2 = "Yo Ls in the chat, fuck this guy bro!",
+
+		start_stressed_part_1 = "Bro! Why your hands shaking?!",
+		start_stressed_part_2 = "Go take a smoke break or somethin' bro 'cos you're movin' too stress right now.",
+
+		start_subaru_part_1 = "Ay that Subaru better be good off-road g!",
+		start_subaru_part_2 = "'cos this trail I'ma take you on is a different one!",
+
+		start_under_10k_part_1 = "Broo, I know you got like under 10k to your name!",
+		start_under_10k_part_2 = "So why don't you go take your broke arse and these pills to the location.. quickly my brother.",
+
+		start_under_24h_part_1 = "You're a beast bro! Keep it pushin'.",
+
+		start_zombie_pills_part_1 = "Okay so you just banged out Z Pills and now you wanna bang out Oxy Pills..",
+		start_zombie_pills_part_2 = "Naah you're definitely a crackhead!",
+
+		still_pressing_e_1_part_1 = "Aite bro, why you bein' bait bro?",
+		still_pressing_e_1_part_2 = "Stop comin' back to the spot bro. Bro I sent you the ping, check your phone my guy.",
+		still_pressing_e_1_part_3 = "Yeah yeah, check that.. check that..",
+
+		still_pressing_e_2_part_1 = "Brooo, are you- are you some sorta stupid guy or somethin'?",
+		still_pressing_e_2_part_2 = "Bro I just sent you the ping bro, are you fuckin' blind or somethin' bro?",
+		still_pressing_e_2_part_3 = "Check that phone bro, fuck off bro!",
+
+		still_pressing_e_3_part_1 = "Ay I can't lie, you do this one more time to me again, I told you too many times my guy..",
+		still_pressing_e_3_part_2 = "If you do that again, I'ma definitely send the ooters after you bro.",
+
+		still_pressing_e_4_part_1 = "You're takin' the piss now, fuck off bro!",
+
+		still_pressing_e_5_part_1 = "Brooo, are you fuckin' stupid or somethin'?",
+		still_pressing_e_5_part_2 = "Keep comin' back to man chattin' to me like that with your big boy voice?",
+		still_pressing_e_5_part_3 = "Ay you better back off right now, I swear to god I'ma fuck you up bro!",
+
+		still_pressing_e_6_muffled_part_1 = "Ay this guy's a dickhead though..",
+
+		still_pressing_e_7_muffled_part_1 = "Ay init this guy's a dickhead bro.",
+		still_pressing_e_7_muffled_part_2 = "He definitely a dickhead, he keeps comin' back!",
+		still_pressing_e_7_muffled_part_3 = "He thinks I'm gonna get more pissed, I'm not getting more pissed bro!",
+
+		still_pressing_e_8_part_1 = "Oi I can't lie you're starting to real piss me off now..",
+		still_pressing_e_8_part_2 = "So stop pressing that bro.",
+
+		still_pressing_e_9_part_1 = "Oi I can't lie if you keep pressing fuckin' E bro.",
+		still_pressing_e_9_part_2 = "I'ma go meta and I'ma blow you up in this bitch bro, fuck you bro.",
+
+		taking_too_long_1_part_1 = "Ay bro, you're taking a bit too long my guy, you know what I'm sayin'..",
+		taking_too_long_1_part_2 = "You better hurry that thing up quickly though.",
+
+		taking_too_long_2_part_1 = "Ay, if you keep takin' long we're gonna have big boy problems for you, you know what I'm sayin'?",
+		taking_too_long_2_part_2 = "You're too late bro, you're too late right now.. hurry up bro.",
+
+		taking_too_long_3_part_1 = "Yoo bro, you're takin' way too long bro, you tryna steal my job or somethin' bro?",
+
+		taking_too_long_5_part_1 = "Yo you think you're bare funny init? You think this is some type of joke big man?",
+		taking_too_long_5_part_2 = "Ay, come.. I beg you come to me right now bro, see what happens to you bro.",
+
+		taking_too_long_6_part_1 = "Ay you BEST not be takin' the piss bro.. I want my shit NOW fam..",
+		taking_too_long_6_part_2 = "Hurry the fuck up bro.",
+
+		taking_too_long_7_part_1 = "Bro I know what car you're drivin'..",
+		taking_too_long_7_part_2 = "I see you when you left bro, don't think you're safe.",
+
+		taking_too_long_8_part_1 = "Aite, that's it though.. this is the last chance bro.",
+		taking_too_long_8_part_2 = "If you take long again, I'ma dial up the ooters and it's gonna get sticky for you my guy.",
+		taking_too_long_8_part_3 = "So you better hurry the fuck up quickly bro... clock's ticking bro.",
+
+		too_many_people_1_part_1 = "Oi I can't lie, there's bare people around me right now bro!",
+		too_many_people_1_part_2 = "Why are you all here? You tryna like take over the spot or somethin' bro?",
+		too_many_people_1_part_3 = "'cos I swear to god I got ooters and matics about ready to kill someone.",
+		too_many_people_1_part_4 = "You see what I'm sayin' bro..",
+		too_many_people_1_part_5 = "BACK off all of you bro, I said ALL of you bro, yeah that means you bro, fuck you bro!",
+
+		too_many_people_2_part_1 = "Yo I can't lie, there's too many people right now bro..",
+		too_many_people_2_part_2 = "You're movin' kinda bait right now with all these man next to you and all of that bro.",
+		too_many_people_2_part_3 = "You said there was only be 1 of you around these parts bro, not like 4 of you dickheads bro..",
+		too_many_people_2_part_4 = "I don't care if you're in some sort of gang bro, do I give a fuck bro? No bro..",
+		too_many_people_2_part_5 = "Back you and your people up right now before it gets serious brother.",
+
+		tutorial_1_part_1 = "Ay what's good bro? You tryna run some oxy for me bro?",
+		tutorial_1_part_2 = "Yoo that's good! Ay, I can't lie to you right now bro I been lookin' for some help on all of that bro.",
+		tutorial_1_part_3 = "Ay, ay listen here- listen here though..",
+		tutorial_1_part_4 = "I've got a bunch of forge prescriptions yeah.. made for me around up north bro.",
+		tutorial_1_part_5 = "Yeah but I can't lie I'ma need you to pick up these things though for me though-",
+		tutorial_1_part_6 = "And then what I need you to do- Oi listen to me bro when I'm speaking to you bro!",
+		tutorial_1_part_7 = "Take them down to the city right.. and redeem them!",
+		tutorial_1_part_8 = "Yeah.. yeah.. you need to redeem them bro.",
+		tutorial_1_part_9 = "Yeah I'ma send you the details on the phone though so just check your GPS and all of that bro I got you bro..",
+		tutorial_1_part_10 = "But oi.. you better not take too long.. otherwise I'ma have to get the ooters on you bro.",
+		tutorial_1_part_11 = "And trust me that's not lookin' good for you right there, I can't lie about that.",
+		tutorial_1_part_12 = "Yeah lets get going big bro.. stop speaking to me bro, stop looking at my face bro and hurry the fuck up bro.",
+
+		tutorial_2_part_1 = "Oi what's good bro? You tryna run some oxy for me bro?",
+		tutorial_2_part_2 = "Yoo, that's good! Ay, I can't lie to you right now bro I been lookin' for some help on all of that bro.",
+		tutorial_2_part_3 = "Yo bro, I got a bunch of forge prescriptions made for me around up north here bro.",
+		tutorial_2_part_4 = "Ay what I'll need you to do though, is run down and pick up these prescriptions for me bro-",
+		tutorial_2_part_5 = "Yeah, and then listen here though- listen here though, take them down to the city bro, and redeem it at the pharmacies.",
+		tutorial_2_part_6 = "Yeah, yeah, yeah, yeah..",
+		tutorial_2_part_7 = "Yeah I'ma send you the details on the phone though, so just check your GPS and all of that bro, I got you bro.",
+		tutorial_2_part_8 = "But oi.. you better not take too long.. otherwise I'ma have to get the ooters on you bro.",
+		tutorial_2_part_9 = "And trust me that's not lookin' good for you right there, I can't lie about that.",
+		tutorial_2_part_10 = "Yeah lets get going big bro, stop speaking to me bro, stop lookin' at my face bro and hurry the fuck up bro.",
+
+		tutorial_3_part_1 = "Yo what's good my brother? Basically, are you tryna run some oxy for me right now?",
+		tutorial_3_part_2 = "Yeah.. yeah.. that's good though, cos I can't lie I've been lookin' for some help on all of that.",
+		tutorial_3_part_3 = "Yeah, yeah, yeah.. I got a bunch of forge prescriptions made for me around here up north. Trust me on that though.",
+		tutorial_3_part_4 = "Yeah but I can't lie though, I'ma need YOU, to pick up the prescriptions for me yeah-",
+		tutorial_3_part_5 = "And then basically, take them down to the city and redeem them at all the different pharmacies and all of that bro.",
+		tutorial_3_part_6 = "Yeah I got you though, 'cos what I'ma do right now yeah..",
+		tutorial_3_part_7 = "You see the encro bro? I'ma send you the details on the encro, so check your GPS my brother.",
+		tutorial_3_part_8 = "You better not take too long though or definitely gonna get the ooters on you so hurry that up big man.",
+		tutorial_3_part_9 = "Yeah lets get going big bro, stop speaking to me bro, stop lookin' at my face bro and hurry the fuck up bro.",
+		tutorial_3_part_10 = "Love bro, love."
 	},
 
 	panel = {
@@ -8422,7 +9026,27 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		failed_add_warning = "Nie udało się dodać ostrzeżenia.",
 
 		get_info_no_permissions = "Gracz próbował uzyskać informacje o graczu bez odpowiednich uprawnień."
+		
+		user_indefinitely_banned_warning_no_reason = "Zbanowałem tę osobę na czas nieokreślony bez określonego powodu. To ostrzeżenie zostało wygenerowane automatycznie w wyniku bana.",
+		user_indefinitely_banned_warning = "Zbanowałem tę osobę na czas nieokreślony z powodu `${reason}`. To ostrzeżenie zostało wygenerowane automatycznie w wyniku bana.",
+		user_temporarily_banned_warning_no_reason = "Zbanowałem tę osobę bez określonego powodu na ${displayTime}. To ostrzeżenie zostało wygenerowane automatycznie w wyniku bana.",
+		user_temporarily_banned_warning = "Zbanowałem tę osobę z powodu `${reason}` na ${displayTime}. To ostrzeżenie zostało wygenerowane automatycznie w wyniku bana."
 	},
+
+	panic = {
+		press_panic_button = "Masz 5 sekund na naciśnięcie panic button'a (X).",
+		panic_button_timeout = "Nie nacisnąłeś panic button'a na czas.",
+
+		panic_button_title = "[Dispatch]",
+
+		panic_button_unit = "10-13, ${unitId} ${lastName} ${label} ranny.",
+		panic_button_no_unit = "10-13, ${lastName} ${label} ranny.",
+
+		panic_blip = "10-13 ${lastName}",
+
+		label_officer = "funkcjonariusz",
+		label_paramedic = "medyk"
+        },
 
 	paper_bags = {
 		fill_bag = "[${SeatEjectKey}] Wypełnij papierową torbę",
@@ -8532,17 +9156,16 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		robbed_ped_logs_details = "${consoleName} okradziono obywatela i otrzymano $${payout}."
 	},
 
+	pepper_spray = {
+		press_to_pepper_spray = "Naciśnij ~INPUT_ATTACK~ aby użyć gazu pieprzowego.",
+		using_pepper_spray = "Używasz gaz pieprzowy."
+	},
 	
 	phone = {
 		app_settings = "Ustawienia",
 		app_contacts = "Kontakty",
 		app_calls = "Telefon",
 		app_messages = "Wiadomości"
-	},
-
-	pepper_spray = {
-		press_to_pepper_spray = "Naciśnij ~INPUT_ATTACK~ aby użyć gazu pieprzowego.",
-		using_pepper_spray = "Używasz gaz pieprzowy."
 	},
 
 	phone_numbers = {
@@ -8586,6 +9209,13 @@ OP.Global.Locales.Languages["pl-PL"] = {
 
 	players = {
 		player_left = "Gracz opuścił grę [${serverId}]"
+	},
+	
+	pole_dancing = {
+		press_to_strip_dance = "Naciśnij ~INPUT_CONTEXT~ aby zatańczyć na rurze.",
+		this_pole_is_occupied = "Rura jest zajęta przez kogoś.",
+		stop_dancing = "Przestań tańczyć",
+		change_dance = "Zmień taniec (${animationId})",
 	},
 
 	pools = {
@@ -8631,48 +9261,6 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		destroying_tire_wall = "Niszczenie ściany opony"
 	},
 
-	reskin = {
-		plastic_surgery = "Chirurgia plastyczna",
-		los_santos_police_dept = "LOS SANTOS POLICE DEPT",
-
-		reskin_player_no_permissions = "Gracz próbował włączyć debug radio bez odpowiedniego pozwolenia.",
-
-		triggered_reskin_for_player = "Włączono reskina dla ${consoleName}.",
-
-		triggered_reskin_for_player_logs_title = "Włączono reskina dla gracza",
-		triggered_reskin_for_player_logs_details = "${consoleName} włączył reskina dla ${targetConsoleName}.",
-
-		triggered_reskin_for_self_logs_title = "Włączono reskina dla siebie",
-		triggered_reskin_for_self_logs_details = "${consoleName} włączył reskina dla siebie.",
-
-		
-		no_reskin_packages = "Nie masz żadnych pakietów reskinów.",
-		redeemed_reskin_package = "Udało się zrealizować pakiet reskin."
-	},
-
-	remote_camera = {
-		connected_to_camera = "Podłączony do kamery #${id}",
-
-		out_of_range = "Poza zasięgiem",
-
-		disconnect = "Odłącz się",
-		view_feed = "Wyświetlanie kanału",
-
-		no_nearby_cameras = "Brak kamer w pobliżu",
-		nearby_cameras = "${amount} najbliższe kamery",
-		no_nearby_cameras_description = "W pobliżu nie ma żadnych kamer.",
-
-		camera_operator = "Operator: ${fullName}",
-
-		camera_label = "Kamera #${id}",
-		camera_distance = "Dystans: ${distance}m",
-		connect = "Połącz się",
-
-		something_went_wrong = "Coś poszło nie tak.",
-		error_out_of_range = "Kamera jest poza zasięgiem.",
-		error_not_found = "Nieznaleziono kamery."
-	},
-
 	radio = {
 		frequency = "Częstotliwość:",
 		switch = "Zmień",
@@ -8709,6 +9297,96 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		decrypter_jammed = "Deszyfrator wydaje się być niezdatny do użycia.",
 		decrypted_frequency = "Częstotliwość wydaje się wynosić ok. `${frequency}`.",
 		no_frequency_detected = "Nie wykryto żadnej częstotliwości."
+	},
+	
+	remote_camera = {
+		connected_to_camera = "Podłączony do kamery #${id}",
+		
+               	camera_distance = "Dystans: ${distance}m",
+		out_of_range = "Poza zasięgiem",
+
+		disconnect = "Odłącz się",
+		view_feed = "Wyświetlanie kanału",
+
+		no_nearby_cameras = "Brak kamer w pobliżu",
+		nearby_cameras = "${amount} najbliższe kamery",
+		no_nearby_cameras_description = "W pobliżu nie ma żadnych kamer.",
+
+		camera_operator = "Operator: ${fullName}",
+
+		camera_label = "Kamera #${id}",
+		camera_distance = "Dystans: ${distance}m",
+		connect = "Połącz się",
+
+		something_went_wrong = "Coś poszło nie tak.",
+		error_out_of_range = "Kamera jest poza zasięgiem.",
+		error_not_found = "Nieznaleziono kamery."
+	},
+	
+	reskin = {
+		plastic_surgery = "Chirurgia plastyczna",
+		los_santos_police_dept = "LOS SANTOS POLICE DEPT",
+
+		reskin_player_no_permissions = "Gracz próbował włączyć debug radio bez odpowiedniego pozwolenia.",
+
+		triggered_reskin_for_player = "Włączono reskina dla ${consoleName}.",
+
+		triggered_reskin_for_player_logs_title = "Włączono reskina dla gracza",
+		triggered_reskin_for_player_logs_details = "${consoleName} włączył reskina dla ${targetConsoleName}.",
+
+		triggered_reskin_for_self_logs_title = "Włączono reskina dla siebie",
+		triggered_reskin_for_self_logs_details = "${consoleName} włączył reskina dla siebie.",
+
+		
+		no_reskin_packages = "Nie masz żadnych pakietów reskinów.",
+		redeemed_reskin_package = "Udało się zrealizować pakiet reskin."
+	},
+	
+	restaurants = {
+		["table"] = "Stół",
+		press_to_table = "[${InteractionKey}] Stół",
+
+		table_title = "Stół ${tableId}",
+		seat = "Miejsce ${seatId}",
+		close_menu = "Zamknij Menu",
+		loading = "Ładowanie...",
+
+		leave_seat = "Opuść miejsce",
+		view_menu = "Zobacz menu",
+		change_seating_position = "Zmień pozycję podczas siedzenia (${animationId})",
+
+		sushi = "Sushi",
+		drinks = "Drinki",
+		desserts = "Deser",
+
+		aka = "Aka",
+		kuro = "Kuro",
+		shiro = "Shiro",
+		midori = "Midori",
+		nigiri = "Nigiri",
+		sex_on_the_beach = "Sex on the beach",
+		mojito = "Mojito",
+		pina_colada = "Pina Colada",
+		tiramisu = "Tiramisu",
+		chocolate_mousse = "Czekoladowy mus",
+
+		food_replenish = "Twój głód i pragnienie zostaną zaspokojone ${amount}%.",
+		thirst_replenish = "Twoje pragnienie zostanie zaspokojone ${amount}%.",
+		hunger_replenish = "Twój głód zostanie zaspokojony ${amount}%.",
+		diving_drop_boost = "Zdobądź ${amount}x więcej zrzutów z wypraw nurkowych dla ${duration} minut.",
+		hunting_drop_boost = "Zdobądź ${amount}x kolejne zrzuty z polowań na ${duration} minut.",
+		garbage_drop_boost = "Zdobądź ${amount}x więcej zasobów ze śmieci przez ${duration} minut.",
+		faster_progress_bars = "Zdobądź ${amount}x szybsze paski postępu przez ${duration} minut.",
+		weapon_damage_multiplier = "Zdobądź ${amount}x mnożnik obrażeń przez ${duration} minut.",
+		local_sales_multiplier = "Zdobądź ${amount}x mnożnik sprzedaży dla produktów sprzedawanych miejscowym.",
+		shorter_boosting_cooldown = "Zdobądź ${amount}x krótszy czas odnowienia między hackami na boostowaniu.",
+		swim_faster = "Pływaj ${amount}x szybciej przez ${duration} minut.",
+		walk_faster = "Idź i biegnij ${amount}x szybciej przez ${duration} minut.",
+		health_generation = "Zdobądź stopniową regenerację zdrowia przez ${duration} minut.",
+		better_stamina = "Bądź w stanie biec bez wyczerpania wytrzymałości przez ${duration} minut.",
+		more_inventory_space = "Zdobądź dodatkowe ${amount} sloty w ekwipunku ${duration} minut.",
+
+		buffs_note = "Wzmocnienia aktywują się dopiero po opuszczeniu okolicy budynku."
 	},
 
 	riot_mode = {
@@ -8842,6 +9520,7 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		grocery_store_18 = "Sandy Shores 24/7",
 		grocery_store_19 = "Grapeseed LTD Gasoline",
 		grocery_store_20 = "Mount Chiliad 24/7",
+		
 		-- NOTE: add-on
 		paleto_247 = "Paleto Bay 24/7"
 	},
@@ -8872,10 +9551,8 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		turn_on = "Włącz ($${cost})",
 		turn_off = "Wyłącz",
 		toggle_through_targets = "Przełącz między celami (${modelId})",
-		increase_speed = "Zwiększ prędkość (${speedLevel})",
-		decrease_speed = "Zmniejsz prędkość (${speedLevel})",
-		increase_rotation = "Zwiększ rotację (${rotationLevel})",
-		decrease_rotation = "Zmniejsz rotację (${rotationLevel})",
+		speed = "Prędkość (${speedLevel})",
+		rotation = "Rotacja (${rotationLevel})",
 		clear_bullet_impacts = "Wyraźne uderzenia pocisków",
 		illegal_shooting_spot_value = "Próba przeanalizowania nieprawidłowych wartości dla miejsc strzeleckich.",
 		illegal_shooting_spot_id = "Próba przeanalizowania wartości dla miejsca strzelaniny, które nie istnieje.",
@@ -8921,6 +9598,7 @@ OP.Global.Locales.Languages["pl-PL"] = {
 	spawn = {
 		spawn_now = "Rozpocznij grę",
 		last_position = "Ostatnia pozycja",
+
 		train_station = "Dworzec kolejowy",
 		city_bus_station = "Miejski Dworzec Autobusowy",
 		paleto_bay_bus_station = "Dworzec autobusowy w Paleto Bay",
@@ -8936,7 +9614,6 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		battle_royale = "Battle Royale"
 	},
 
-	
 	special_imports = {
 		special_imports_blip = "Specjalne importy",
 
@@ -9282,12 +9959,17 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		use_secret_tunnel_exit = "Użyj tajnego wyjścia",
 		use_secret_tunnel_exit_interact = "[${InteractionKey}] Użyj tajnego wyjścia",
 
-		
 		enter_hangar = "Wejdź do hangaru",
 		enter_hangar_interact = "[${InteractionKey}] Wejdź do hangaru",
 
 		exit_hangar = "Wyjdź z hangaru",
 		exit_hangar_interact = "[${InteractionKey}] Wyjdź z hangaru"
+		
+		enter_loading_bay = "Enter Loading Bay",
+		enter_loading_bay_interact = "[${InteractionKey}] Wejdź do ładowni",
+
+		exit_loading_bay = "Exit Loading Bay",
+		exit_loading_bay_interact = "[${InteractionKey}] Wyjdź z ładowni"
 	},
 
 	test_server = {
@@ -9418,7 +10100,7 @@ OP.Global.Locales.Languages["pl-PL"] = {
 	traps = {
 		rearming = "Uzbrajanie",
 		press_to_rearm = "[${InteractionKey}] Uzbrój",
-		rearm = "rozbrój",
+		rearm = "Rozbrój",
 		e = "E"
 	},
 
@@ -9481,7 +10163,6 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		press_to_use = "Nacisnij ~INPUT_CONTEXT~ aby wziąść bucha. Naciśnij ~INPUT_FRONTEND_CANCEL~ aby odłożyć vape'a."
 	},
 
-	
 	vdm = {
 		failed_vdm = "Nie udało się VDM'OWAC gracza.",
 		invalid_entity = "Nieznaleziono pojazdu lub kierowcy.",
@@ -9546,14 +10227,14 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		voice_mute_missing_permissions = "Gracz próbował zmienić status wyciszenia innego gracza, ale nie miał wymaganych uprawnień."
 	},
 
-	weed_field = {
-		pick_weed = "Naciśnij ~INPUT_CONTEXT~, aby zebrać zioło.",
-		picking_weed = "Zbieranie zioła"
-	},
-
 	washrooms = {
 		use_sink = "[${InteractionKey}] Użyj zlewu",
 		using_sink = "Użyj zlewu"
+	},
+	
+	weed_field = {
+		pick_weed = "Naciśnij ~INPUT_CONTEXT~, aby zebrać zioło.",
+		picking_weed = "Zbieranie zioła"
 	},
 
 	wizard = {
@@ -9638,7 +10319,6 @@ OP.Global.Locales.Languages["pl-PL"] = {
 	},
 
 	-- global/*
-
 	entities = {
 		in_no_ped_population_area = "Jesteś w 'obszarze nie zamieszkałym przez pedów'.",
 		not_in_no_ped_population_area = "Nie jesteś w 'obszarze nie zamieszkałym przez pedów'."
@@ -9670,6 +10350,7 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		flipped_vehicle_logs_title = "Obrócono pojazd",
 		flipped_vehicle_logs_details = "${consoleName} obrócił pojazd.",
 		failed_to_find_ground = "Nie znaleziono ziemi, przeteleportowano do najbliższej drogi.",
+		
 		time_in = "w ${time} ${unit}",
 		time_ago = "${time} ${unit} temu"
 	},
@@ -9707,6 +10388,8 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		grabbing_valuables = "Zabieranie kosztowności",
 		use_advanced_lockpick = "[${InteractionKey}] Użyj zaawansowanego wytrychu",
 		lockpicking_stockade = "Włamywanie się",
+		
+		status_blip = "Stockade",
 
 		stockade_reward_logs_title = "Łup z napadu",
 		cash_pickup_logs_details = "${consoleName} odebrane $${cashAmount} w gotówce.",
@@ -9913,6 +10596,7 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		spawn_area_not_clear = "Miejsce parkingowe jest zajęte!",
 		purchase_funds = "Niewystarczające środki.",
 		return_button = "Wróć",
+		
 		toggled_messages_on = "Włączono komunikaty.",
 		toggled_messages_off = "Wyłączono komunikaty."
 	},
@@ -9996,16 +10680,16 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		vehicle_busy = "Pobliski pojazd jest zajęty.",
 		purchase_jerry_can = "Naciśnij ~g~${InventoryKey} ~w~aby kupić kanister.",
 		gas_station = "Stacja Paliw",
-		vehicle_engine_on = "Silnik pojazdu już pracuje.",
 		petrolcan_fuel_text = "Pozostała ilość benzyny: ${petrolAmount}%\nNaciśnij ~g~E ~w~aby przestać tankować.",
 		player_busy = "Jesteś zajęty czym innym.",
 		fuel_level_set_to = "Poziom paliwa został zmieniony na `${fuelLevel}`.",
 		not_in_a_vehicle = "Nie znajdujesz się w pojezdzie.",
 		vehicle_engine_on = "Silnik nadal pracuje.",
-		vehicle_exploded_logs_title = "Pojazd eksplodował",
-		vehicle_exploded_logs_details = "${consoleName} zatankował pojazd i wywołał eksplozję z powodu pracującego silnika.",
 
 		set_fuel_no_permissions = "Gracz próbował ustawić poziom paliwa pojazdu bez odpowiednich uprawnień."
+		
+		vehicle_exploded_logs_title = "Pojazd eksplodował",
+		vehicle_exploded_logs_details = "${consoleName} zatankował pojazd i wywołał eksplozję z powodu pracującego silnika.",
 	},
 
 	gadgets = {
@@ -10151,11 +10835,16 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		fake_plate_missing_permissions = "Gracz próbował ustawić fałszywą tablicę za pomocą komendy bez odpowiednich uprawnień."
 	},
 
-	
 	runways = {
 		you_are_not_in_a_plane = "Nie jesteś w samolocie.",
 		ifr_disabled = "IFR został wyłączony.",
 		ifr_enabled = "IFR został włączony."
+		
+	},
+
+	sirens = {
+		sirens_muted_on = "All sirens are now muted.",
+		sirens_muted_off = "All sirens are now unmuted."
 	},
 
 	spawner = {
@@ -10207,6 +10896,7 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		belt_is_on_and_vehicle_is_locked = "Twój pas jest zapięty, a pojazd zamknięty.",
 		belt_is_on = "Masz zapięte pasy!",
 		vehicle_is_locked = "Pojazd jest zamknięty.",
+		
 		nearest_player_not_vehicle = "Nearest player is not in a vehicle.",
 		no_dead_player_nearby = "W pojeździe w pobliżu nie ma martwego gracza.",
 		dragging_out_player = "Wyciąganie gracza z pojazdu.",
@@ -10287,6 +10977,7 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		type_sniper = "amunicja snajperska",
 		type_shotgun = "Amunicja kalibru 12",
 		type_stungun = "taser cartdiges",
+		
 		fill_ammo_success = "Pomyślnie wypełniono amunicje.",
 		fill_ammo_failed = "Nie udało się wypełnić amunicji."
 	},
@@ -10305,6 +10996,16 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		infinite_ammo = "Masz nieskończoną amunicję do tej broni.",
 		ammo_count = "Masz ${clips} pełny magazynek (${total} w sumie rund).",
 		ammo_count_loose = "Masz ${clips} pełny magazynek i 1 magazynek z ${loose} rundy (${total} w sumie rund).",
+		
+		firing_mode_0 = "Tryb strzelania ustawiony na domyślny.",
+		firing_mode_1 = "Tryb strzelania ustawiony na półautomatyczny.",
+		firing_mode_2 = "Włączono zabezpieczenie broni.",
+
+		safety_is_on = "Zabezpieczenie broni jest włączone.",
+
+		firing_mode_set_1 = "Tryb strzelania jest ustawiony na półautomatyczny.",
+		firing_mode_set_2 = "Zabezpieczenie broni jest włączone.",
+		
 		folded_stock = "Składany magazyn",
 		unfolded_stock = "Rozłożony magazyn",
 		failed_to_toggle_stock = "Nie udało się przełączyć magazynu.",
@@ -10359,8 +11060,8 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		ems_air_hq = "Baza Powietrzna EMS",
 		ems_boat_hq = "Przystań EMS",
 		ems_garage = "Garaż EMS",
-		e_to_get_treated = "[E] Zarejestruj się - $2500",
-		get_treated = "Zarejestruj się - $2500",
+		e_to_get_treated = "[E] Zarejestruj się - $1250",
+		get_treated = "Zarejestruj się - $1250",
 		you_are_being_treated = "Jesteś w trakcie leczenia",
 		being_treated = "Trwa leczenie.",
 		minute = "Minuta",
@@ -10389,9 +11090,6 @@ OP.Global.Locales.Languages["pl-PL"] = {
 		bleeding_reduced = "Krwawienie maleje",
 		bleeding_self_stopped = "Krwawienie ustąpiło samemu",
 		thanks_for_loot = "Zostałeś obrabowany, gdy byłeś nieprzytomny. Możesz nie mieć niektórych przedmiotów.",
-		head = "Głowa",
-		left_wrist = "Lewy nadgarstek",
-		right_wrist = "Prawy nadgarstek",
 		serial_number = "Numer Seryjny: ${serialNumber}<br>Ta broń jest zarejestrowana na ${fullName} (${characterId}).",
 		serial_number_unknown = "Numer Seryjny: Nieznany.",
 		badge_owner = "Odznaka należy do ${fullName} (${positionName}).",
